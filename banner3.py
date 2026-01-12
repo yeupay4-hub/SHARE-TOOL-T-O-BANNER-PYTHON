@@ -30,7 +30,7 @@ banners = """
 DOT_ASCII = " .:·•oO"
 DOT_BLOCK = " ⣀⣄⣆⣇⣧⣷⣿"
 
-DEFAULT_WIDTH = 85
+DEFAULT_WIDTH = 65
 
 def clear():
     os.system("cls" if os.name == "nt" else "clear")
